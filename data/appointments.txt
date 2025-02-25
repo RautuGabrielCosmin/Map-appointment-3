@@ -1,0 +1,6 @@
+1345,6,6,6,6
+340,Patient0,Doctor0,10:00,10.10.2010
+342,Patient1,Doctor1,10:00,13.10.2010
+343,Patient2,Doctor2,11:00,10.1.2010
+7,dragosnew,dr,19:00,13.02.2023
+344,Patient3,Doctor0,17:00,8.7.2010
